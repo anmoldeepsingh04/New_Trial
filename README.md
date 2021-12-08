@@ -3,4 +3,4 @@ Assignment problem for the course "Computational Heat & Fluid Flow (ME 605)" tau
 
 # Solving Poisson Equation using various solvers
 Questions are in Assignment_01_Problem folder
-Solutions are in Assignment_01_Solver folder
+\list Solutions are in Assignment_01_Solver folder
